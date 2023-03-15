@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **game development, product marketing, developer experience and advocacy, community building**
 
-- 📫 How to reach me **jordan.schuetz@schuetz@gmail.com**
+- 📫 How to reach me **jordan.schuetz@gmail.com**
 
 - ⚡ Fun fact **I'm 6'9" tall**
 
