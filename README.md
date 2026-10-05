@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jordan Schuetz</h1>
-<h3 align="center">I am a product marketer working in the San Francisco Bay Area. I'm also the organizer and founder of SF Game Development, the largest gaming meetup community in the Bay Area.</h3>
+<h3 align="center">I am an ecosystem programs lead, and product marketer working in the San Francisco Bay Area. I'm also the organizer and founder of SF Game Development, the largest gaming meetup community in the Bay Area.</h3>
 
 - 👨‍💻 All of my projects are available at [https://jordanschuetz.com](https://jordanschuetz.com)
 
